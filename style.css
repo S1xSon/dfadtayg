@@ -1,0 +1,50 @@
+form {
+    width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid gray;
+    border-radius: 5px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  input[type="text"], textarea, select {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 20px;
+    border: 1px solid gray;
+    border-radius: 5px;
+  }
+  
+  input[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    background-color: lightblue;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+  button {
+    width: 50%;
+    padding: 10px;
+    background-color: lightblue;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  input[type="buttons"] {
+    width: 50%;
+    padding: 10px;
+    background-color: lightblue;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  
+  
